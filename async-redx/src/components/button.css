@@ -1,0 +1,27 @@
+.button{
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    background: royalblue;
+    color: white;
+    margin-left: 50px;
+    border-style: none;
+}
+
+.button:hover{
+    background: #7dbbf7;
+}
+
+.lol{
+    position: absolute;
+    right: 30px;
+    top: 300px;
+    background: red;
+}
+
+.lame{
+    position: absolute;
+    right: 20px;
+    bottom: 100px;
+    background: red;
+}
